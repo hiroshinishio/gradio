@@ -1,5 +1,11 @@
 # @gradio/app
 
+## 1.39.3-beta.0
+
+### Dependency updates
+
+- @gradio/dataset@0.2.4-beta.0
+
 ## 1.39.2
 
 ### Dependency updates
