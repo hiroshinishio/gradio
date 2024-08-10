@@ -1,5 +1,11 @@
 # website
 
+## 0.38.0
+
+### Features
+
+- [#9075](https://github.com/gradio-app/gradio/pull/9075) [`3258968`](https://github.com/gradio-app/gradio/commit/325896837113d1c45de0dcff1972a8686730f695) - Add warning to guides and change styling of tip.  Thanks @aliabd!
+
 ## 0.37.0
 
 ### Features
